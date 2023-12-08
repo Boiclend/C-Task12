@@ -1,0 +1,14 @@
+C:\Users\РомаЛиля\Desktop\C#Task12\C#Task12\bin\Debug\net8.0\C#Task12.exe
+C:\Users\РомаЛиля\Desktop\C#Task12\C#Task12\bin\Debug\net8.0\C#Task12.deps.json
+C:\Users\РомаЛиля\Desktop\C#Task12\C#Task12\bin\Debug\net8.0\C#Task12.runtimeconfig.json
+C:\Users\РомаЛиля\Desktop\C#Task12\C#Task12\bin\Debug\net8.0\C#Task12.dll
+C:\Users\РомаЛиля\Desktop\C#Task12\C#Task12\bin\Debug\net8.0\C#Task12.pdb
+C:\Users\РомаЛиля\Desktop\C#Task12\C#Task12\obj\Debug\net8.0\C#Task12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РомаЛиля\Desktop\C#Task12\C#Task12\obj\Debug\net8.0\C#Task12.AssemblyInfoInputs.cache
+C:\Users\РомаЛиля\Desktop\C#Task12\C#Task12\obj\Debug\net8.0\C#Task12.AssemblyInfo.cs
+C:\Users\РомаЛиля\Desktop\C#Task12\C#Task12\obj\Debug\net8.0\C#Task12.csproj.CoreCompileInputs.cache
+C:\Users\РомаЛиля\Desktop\C#Task12\C#Task12\obj\Debug\net8.0\C#Task12.dll
+C:\Users\РомаЛиля\Desktop\C#Task12\C#Task12\obj\Debug\net8.0\refint\C#Task12.dll
+C:\Users\РомаЛиля\Desktop\C#Task12\C#Task12\obj\Debug\net8.0\C#Task12.pdb
+C:\Users\РомаЛиля\Desktop\C#Task12\C#Task12\obj\Debug\net8.0\C#Task12.genruntimeconfig.cache
+C:\Users\РомаЛиля\Desktop\C#Task12\C#Task12\obj\Debug\net8.0\ref\C#Task12.dll
